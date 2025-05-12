@@ -11,4 +11,3 @@ mod tests {
         assert_eq!(soma(2, 2), 4);
     }
 }
-
